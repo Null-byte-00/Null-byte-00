@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects I'm working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=qc)]([https://github.com/Null-byte-00/qc](https://github.com/Null-byte-00/qc))
