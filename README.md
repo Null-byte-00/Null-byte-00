@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 
 ## Projects I'm working on
 [![qc](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=qc)](https://github.com/Null-byte-00/qc)
+[![toxicity-prediction-gnn](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=toxicity-prediction-gnn)](https://github.com/Null-byte-00/toxicity-prediction-gnn)
