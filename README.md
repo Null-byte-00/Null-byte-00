@@ -1,5 +1,5 @@
 ## 👨‍💻 About 
-I am a Computer Science student at the University of Windsor. I was born in Iran and started coding at the age of 14. I have experience working as a Django backend developer at Pion Innovation Optimized network. I am passionate about software development and enjoy working on projects that challenge me to learn new skills. I am currently seeking opportunities to apply my knowledge and skills to real-world problems. I'm also interested in data science, AI, cryptography and cyber security
+I am a Computer Science student at the University of Windsor. I was born in Iran and started coding at the age of 14. I work as a Django backend developer at Pion Innovation Optimized network. I am passionate about software development and enjoy working on projects that challenge me to learn new skills. I am currently seeking opportunities to apply my knowledge and skills to real-world problems. I'm also interested in data science, AI, cryptography and cyber security
 ## 🖥️ Languages and tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/>
