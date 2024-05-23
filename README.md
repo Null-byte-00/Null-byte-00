@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 -->
 
 ## Projects I'm working on
+[![Catfusion](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=Catfusion)](https://github.com/Null-byte-00/Catfusion)
+[![Chem](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=Chem)](https://github.com/Null-byte-00/Chem)
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=portfolio)](https://github.com/Null-byte-00/portfolio)
+
+## Recent Projects
 [![qc](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=qc)](https://github.com/Null-byte-00/qc)
 [![toxicity-prediction-gnn](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=toxicity-prediction-gnn)](https://github.com/Null-byte-00/toxicity-prediction-gnn)
 [![CaptchaReader](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=CaptchaReader)](https://github.com/Null-byte-00/CaptchaReader)
