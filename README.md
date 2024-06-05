@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects I'm working on
+## Projects I'm working on https://github.com/Null-byte-00/deepq_rl
+[![deepq_lr](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=deepq_rl)](https://github.com/Null-byte-00/deepq_rl)
 [![Catfusion](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=Catfusion)](https://github.com/Null-byte-00/Catfusion)
 [![Chem](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=Chem)](https://github.com/Null-byte-00/Chem)
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=portfolio)](https://github.com/Null-byte-00/portfolio)
