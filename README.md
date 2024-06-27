@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 [![Catfusion](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=Catfusion)](https://github.com/Null-byte-00/Catfusion)
 [![Chem](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=Chem)](https://github.com/Null-byte-00/Chem)
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=portfolio)](https://github.com/Null-byte-00/portfolio)
+[![SmilingFace_DCGAN](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=SmilingFace_DCGAN)](https://github.com/Null-byte-00/SmilingFace_DCGAN)
 
 ## Recent Projects
 [![qc](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=qc)](https://github.com/Null-byte-00/qc)
