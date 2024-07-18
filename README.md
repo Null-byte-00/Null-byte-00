@@ -19,7 +19,7 @@ Website: https://www.0x00.blog
 
 ## 📊 Stats
 
-![My github Stats](https://github-readme-stats.vercel.app/api?username=Null-byte-00&show_icons=true&theme=gruvbox)
+![My github Stats](https://readmestats.999857.xyz/api?username=Null-byte-00&show_icons=true&theme=gruvbox)
 <!--
 **Null-byte-00/Null-byte-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 -->
 
 ## Projects I'm working on 
-[![deepq_lr](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=deepq_rl)](https://github.com/Null-byte-00/deepq_rl)
-[![Catfusion](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=Catfusion)](https://github.com/Null-byte-00/Catfusion)
-[![Chem](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=Chem)](https://github.com/Null-byte-00/Chem)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=portfolio)](https://github.com/Null-byte-00/portfolio)
-[![SmilingFace_DCGAN](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=SmilingFace_DCGAN)](https://github.com/Null-byte-00/SmilingFace_DCGAN)
+[![deepq_lr](https://readmestats.999857.xyz/api/pin/?username=Null-byte-00&repo=deepq_rl)](https://github.com/Null-byte-00/deepq_rl)
+[![Catfusion](https://readmestats.999857.xyz/api/pin/?username=Null-byte-00&repo=Catfusion)](https://github.com/Null-byte-00/Catfusion)
+[![Chem](https://readmestats.999857.xyz/api/pin/?username=Null-byte-00&repo=Chem)](https://github.com/Null-byte-00/Chem)
+[![portfolio](https://readmestats.999857.xyz/api/pin/?username=Null-byte-00&repo=portfolio)](https://github.com/Null-byte-00/portfolio)
+[![SmilingFace_DCGAN](https://readmestats.999857.xyz/api/pin/?username=Null-byte-00&repo=SmilingFace_DCGAN)](https://github.com/Null-byte-00/SmilingFace_DCGAN)
 
 ## Recent Projects
-[![qc](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=qc)](https://github.com/Null-byte-00/qc)
-[![toxicity-prediction-gnn](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=toxicity-prediction-gnn)](https://github.com/Null-byte-00/toxicity-prediction-gnn)
-[![CaptchaReader](https://github-readme-stats.vercel.app/api/pin/?username=Null-byte-00&repo=CaptchaReader)](https://github.com/Null-byte-00/CaptchaReader)
+[![qc](https://readmestats.999857.xyz/api/pin/?username=Null-byte-00&repo=qc)](https://github.com/Null-byte-00/qc)
+[![toxicity-prediction-gnn](https://readmestats.999857.xyz/api/pin/?username=Null-byte-00&repo=toxicity-prediction-gnn)](https://github.com/Null-byte-00/toxicity-prediction-gnn)
+[![CaptchaReader](https://readmestats.999857.xyz/api/pin/?username=Null-byte-00&repo=CaptchaReader)](https://github.com/Null-byte-00/CaptchaReader)
